@@ -20,6 +20,8 @@ def data_type(datainput):
 			return None
 		else:
 			return datainput[2]
+		
+#TEST >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 import unittest
 
