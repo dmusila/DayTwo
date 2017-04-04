@@ -1,4 +1,5 @@
-def fizz_buzz(number):
+#Assumption made any number divisible by 15 is divisible by 3 and 5
+def fizzbuzz(number):
 	if (number % 15 == 0):
 		return "FizzBuzz"
 	elif (number % 5 == 0):
